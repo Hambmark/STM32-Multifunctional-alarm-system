@@ -1,0 +1,3 @@
+../APP/Mic_Mode/Mic_Mode.c:17:6:MIC_MODE_NOMAL	1
+../APP/Mic_Mode/Mic_Mode.c:25:6:MIC_MODE_ALARM_Sample	1
+../APP/Mic_Mode/Mic_Mode.c:32:6:MIC_MODE_ALARM_Temp	1

@@ -1,0 +1,6 @@
+../APP/Usart/MyUsart.c:15:19:send_str_uart	1
+../APP/Usart/MyUsart.c:20:19:send_uint8_uart	1
+../APP/Usart/MyUsart.c:27:19:send_int8_uart	1
+../APP/Usart/MyUsart.c:34:19:send_int16_uart	1
+../APP/Usart/MyUsart.c:41:19:send_int32_uart	1
+../APP/Usart/MyUsart.c:47:19:send_float_uart	3
